@@ -13,10 +13,14 @@ html {
 }
 
 html::-webkit-scrollbar {
-  width: 1vw;
+  width: 0.65vw;
+  border-radius: 10px;
+  
 }
 
 html::-webkit-scrollbar-thumb {
+  width: 0.65vw;
+  border-radius: 10px;
   background-color: #7775;
 }
 
