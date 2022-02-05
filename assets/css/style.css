@@ -28,7 +28,7 @@ img{
 }
 html {
   scrollbar-width: normal;
-  scrollbar-color: #7775 #5555;
+  scrollbar-color: rgb(134, 134, 134) #5555;
 }
 
 html::-webkit-scrollbar {
@@ -39,7 +39,7 @@ html::-webkit-scrollbar {
 html::-webkit-scrollbar-thumb {
   width: 0.65vw;
   border-radius: 10px;
-  background-color: #7775;
+  background-color: rgb(134, 134, 134);
 }
 
 html::-webkit-scrollbar-thumb:hover {
